@@ -7,4 +7,5 @@ This is a simple c program that stimulates a progress bar in the console. It vis
 ## How to run and compile
 ### Using GCC :
 gcc progressbar.c
+
 ./a.exe
